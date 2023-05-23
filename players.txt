@@ -1,0 +1,7 @@
+Team1:
+Patryk 10 90 0 Knife 30 15 30
+Bartek 10 100 0 Stick 30 15 30
+
+Team2:
+Maciek 10 100 0 Barbell 30 15 30
+Mateusz 10 60 0 Fists 30 15 30
